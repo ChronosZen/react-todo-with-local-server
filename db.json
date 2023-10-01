@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Feb 6th at 1:30pm",
+      "reminder": true,
+      "status": "not-started"
+    },
+    {
+      "text": "Hello",
+      "day": "Monday",
+      "status": "in-progress",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Hello",
+      "day": "Sat",
+      "status": "completed",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Test",
+      "day": "Tuesday",
+      "status": "in-progress",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
